@@ -28,6 +28,7 @@
 					<div class="form-item">
 						<input type="text" name="cmt" id="cmt" value="" placeholder="Nhập bình luận" required="required" />
 						<a href="javascript:void(0)" title="" class="btn" onclick="return doComment()">Bình luận</a>
+						<!-- javascript:void(0) để không load lại trang nhé.  -->
 					</div>
 				</form>
 			</div>
